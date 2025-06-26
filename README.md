@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **https://t.me/rifathasan093**
 
+- ⚡ **Bringing the web to life with React, Node, MongoDB, and Express**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
