@@ -6,6 +6,24 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQFXgtfXI2PVyg/profile-displaybackgroundimage-shrink_350_1400/B4EZqXwmU_HoAY-/0/1763482693077?e=1764806400&v=beta&t=F9Bq6tqmBIoY9cJxT4SmJqr0DQCakz80Z1JZ7NG2a7g" alt="My Banner "></img>
+## 🌐 Connect With Me
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/mdrifathasan-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/share/19KNeTSCQK/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://t.me/rifathasan093" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifathasan5127
                    &label=Profile%20views&color=0e75b6&style=flat" alt="stackdaemon" /> </p>
