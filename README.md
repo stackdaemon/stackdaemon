@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rifat Hasan</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'M+RIFAT+HASAN" alt="Typing SVG" />
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifathasan5127
