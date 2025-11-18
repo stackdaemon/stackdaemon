@@ -6,6 +6,18 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQFXgtfXI2PVyg/profile-displaybackgroundimage-shrink_350_1400/B4EZqXwmU_HoAY-/0/1763482693077?e=1764806400&v=beta&t=F9Bq6tqmBIoY9cJxT4SmJqr0DQCakz80Z1JZ7NG2a7g" alt="My Banner "></img>
+## 👨‍💻 About Me
+
+Hi! I'm **Rifat Hasan**, a passionate Frontend Developer from Bangladesh.  
+I love building clean, responsive and user-friendly web applications using modern web technologies like **React**, **Node.js**, **Express**, and **MongoDB**.
+
+- 🌱 Currently exploring **Next.js**
+- 🔭 Working on a **tourism website project**
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs**
+- 🧩 I enjoy learning new technologies and optimizing user experience
+- 📫 Reach me at: **https://t.me/rifathasan093**
+
+
 ## 🌐 Connect With Me
 <p align="left">
 
@@ -36,11 +48,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stackdaemon" alt="stackdaemon" /></a> </p>
 
-- 📫 How to reach me: **https://t.me/rifathasan093**
 
-- ⚡ **Bringing the web to life with React, Node, MongoDB, and Express**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
