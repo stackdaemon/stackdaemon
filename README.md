@@ -5,6 +5,8 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFXgtfXI2PVyg/profile-displaybackgroundimage-shrink_350_1400/B4EZqXwmU_HoAY-/0/1763482693077?e=1764806400&v=beta&t=F9Bq6tqmBIoY9cJxT4SmJqr0DQCakz80Z1JZ7NG2a7g" alt="My Banner "></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifathasan5127
                    &label=Profile%20views&color=0e75b6&style=flat" alt="stackdaemon" /> </p>
 
