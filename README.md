@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFXgtfXI2PVyg/profile-displaybackgroundimage-shrink_350_1400/B4EZqXwmU_HoAY-/0/1763482693077?e=1764806400&v=beta&t=F9Bq6tqmBIoY9cJxT4SmJqr0DQCakz80Z1JZ7NG2a7g" alt="My Banner "></img>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHw0T4Aac4LGg/profile-displaybackgroundimage-shrink_350_1400/B4DZqeeJ3aHwAY-/0/1763595301353?e=1766016000&v=beta&t=rKi5wrr9YynP2bcInucnFMTj9KROAgLlgv-KkL2wou0" alt="My Banner">
 ## 👨‍💻 About Me
 
 Hi! I'm **Rifat Hasan**, a passionate Frontend Developer from Bangladesh.  
