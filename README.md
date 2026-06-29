@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="/rifat (2).png" alt="Typing SVG" />
+  <a href="#">
+    <img src="/rifat (2).png" alt="My Banner" />
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHw0T4Aac4LGg/profile-displaybackgroundimage-shrink_350_1400/B4DZqeeJ3aHwAY-/0/1763595301353?e=1766016000&v=beta&t=rKi5wrr9YynP2bcInucnFMTj9KROAgLlgv-KkL2wou0" alt="My Banner">
+
 ## 👨‍💻 About Me
 
 Hi! I'm **Rifat Hasan**, a passionate Frontend Developer from Bangladesh.  
