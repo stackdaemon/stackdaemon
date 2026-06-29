@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHw0T4Aac4LGg/profile-displaybackgroundimage-shrink_350_1400/B4DZqeeJ3aHwAY-/0/1763595301353?e=1769040000&v=beta&t=gYJOZg3r-BAK9Uknmz6A8eiq6bDOgbsr4WqyWO-77Mg" alt="Typing SVG" />
+    <img src="/rifat (2).png" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
